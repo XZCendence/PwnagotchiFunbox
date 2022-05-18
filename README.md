@@ -1,2 +1,2 @@
 # PwnagotchiFunbox
-Some new tricks for the pwnagotchi!
+Teach the pwnagotchi some new tricks with the help of MDK4
